@@ -11,6 +11,8 @@
   * [Tests](#tests)
   * [Questions](#questions)
   
+  ## Visuals
+  
   
   ## Installation
   Used npm and inquirer
