@@ -12,7 +12,7 @@
   * [Questions](#questions)
   
   ## Visuals
-  <img src="./readmeapp.gif">
+  <img src="./Readmeapp.gif">
   
   ## Installation
   Used npm and inquirer
