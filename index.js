@@ -67,6 +67,8 @@ const questions = [
     
 ]
 // TODO: Create a function to write README file
+//The fs.writeFile() method is used to asynchronously write the specified data
+//fs.writeFile(file, data[, options], callback)Using fs.writeFile() with file descriptors
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, function(err) {
         if (err) {return console.log(err);}
