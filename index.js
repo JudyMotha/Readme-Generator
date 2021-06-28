@@ -34,6 +34,7 @@ const questions = [
         name: 'usage',
         message: 'Enter usage information.'
       },
+    //The license displaybadge when clicked take you to License info page
       {
         type: 'list',
         name: 'license',
