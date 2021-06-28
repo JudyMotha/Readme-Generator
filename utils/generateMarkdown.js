@@ -4,7 +4,7 @@
 //Run the app multiple times with node index.js and  and see the readme getting updated each time with varied set of answers
 function generateMarkdown(data) {
   return `
-  # ${data.title} 
+   ${data.title} 
   # Description
   ${data.description}
    
