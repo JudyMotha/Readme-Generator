@@ -1,6 +1,7 @@
 
 // function to generate markdown for README
 //TODO: Create a function to generate markdown for README
+//Run the app multiple times with node index.js and  and see the readme getting updated each time with varied set of answers
 function generateMarkdown(data) {
   return `
   # ${data.title} 
