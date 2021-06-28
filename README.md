@@ -11,7 +11,7 @@
   * [Tests](#tests)
   * [Questions](#questions)
   
-  ## Visuals
+  ## Visuals Click
   <img src="./Readmeapp.gif">
   
   ## Installation
